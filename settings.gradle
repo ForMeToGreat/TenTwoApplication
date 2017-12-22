@@ -1,0 +1,1 @@
+include ':app', ':imagecache', ':contentprovider', ':contentprovider01', ':content01', ':provider01', ':broadcastreceivre01', ':myservice', ':myaidl01', ':myaidl02', ':myplayer', ':loadfile', ':servicedownfile'

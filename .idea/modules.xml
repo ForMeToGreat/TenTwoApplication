@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TenTwoApplication.iml" filepath="$PROJECT_DIR$/TenTwoApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreceivre01/broadcastreceivre01.iml" filepath="$PROJECT_DIR$/broadcastreceivre01/broadcastreceivre01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content01/content01.iml" filepath="$PROJECT_DIR$/content01/content01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider01/contentprovider01.iml" filepath="$PROJECT_DIR$/contentprovider01/contentprovider01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagecache/imagecache.iml" filepath="$PROJECT_DIR$/imagecache/imagecache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadfile/loadfile.iml" filepath="$PROJECT_DIR$/loadfile/loadfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myaidl01/myaidl01.iml" filepath="$PROJECT_DIR$/myaidl01/myaidl01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myaidl02/myaidl02.iml" filepath="$PROJECT_DIR$/myaidl02/myaidl02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myplayer/myplayer.iml" filepath="$PROJECT_DIR$/myplayer/myplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myservice/myservice.iml" filepath="$PROJECT_DIR$/myservice/myservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider01/provider01.iml" filepath="$PROJECT_DIR$/provider01/provider01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedownfile/servicedownfile.iml" filepath="$PROJECT_DIR$/servicedownfile/servicedownfile.iml" />
+    </modules>
+  </component>
+</project>
